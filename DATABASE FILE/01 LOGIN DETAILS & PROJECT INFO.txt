@@ -1,0 +1,25 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: onlclassroom**
+
+**Developed by Idara Udofia**
+
+**Recommended PHP Version7.2 or Newer**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: admin
+
+**Student Login Details**
+
+Email   : robert@gmail.com
+Password: password
+
+**School Login Details**
+
+ID      : 108
+Password: 101010
+
+
